@@ -1,2 +1,2 @@
 # gen-ai
-new project soon ()
+new project soon 🪐
