@@ -1,6 +1,6 @@
 # 🤖 Gen-AI
 
-Welcome to the Gen-AI project! 🚀 This repository contains cutting-edge tools and models to unleash the potential of generative artificial intelligence. Whether you're exploring creative applications, developing next-gen AI systems, or simply experimenting with state-of-the-art techniques, Gen-AI has you covered. 🌟
+This repository contains cutting-edge tools and models to unleash the potential of generative artificial intelligence. Whether you're exploring creative applications, developing next-gen AI systems, or simply experimenting with state-of-the-art techniques, Gen-AI has you covered. 🌟
 
 ## 🛠️ Features
 
