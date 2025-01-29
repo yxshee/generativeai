@@ -25,10 +25,4 @@ python run_gen_ai.py
 ```
 Check out `docs/usage.md` for detailed usage instructions and tips. 📝
 
-## 🤝 Contributing
 
-We welcome contributions! 🎉 Please check out our `CONTRIBUTING.md` for guidelines on how to get involved. Together, we can push generative AI to new heights! 🙌
-
----
-
-🌟 *Join us on this journey and help unlock the creative potential of generative AI!*
